@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cesariconss.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cesarstill0000" x="63" y="63" width="182" height="145"/>
+	<SubTexture name="shakey0000" x="278" y="63" width="182" height="169" frameX="-1" frameY="-3" frameWidth="184" frameHeight="172"/>
+	<SubTexture name="shakey0001" x="493" y="63" width="181" height="169" frameX="-3" frameY="-3" frameWidth="184" frameHeight="172"/>
+	<SubTexture name="shakey0002" x="707" y="63" width="182" height="169" frameX="-1" frameY="-1" frameWidth="184" frameHeight="172"/>
+	<SubTexture name="shakey0003" x="63" y="265" width="182" height="169" frameX="-1" frameY="-3" frameWidth="184" frameHeight="172"/>
+	<SubTexture name="shakey0004" x="278" y="265" width="182" height="172" frameX="0" frameY="0" frameWidth="184" frameHeight="172"/>
+	<SubTexture name="shakey0005" x="63" y="265" width="182" height="169" frameX="-1" frameY="-3" frameWidth="184" frameHeight="172"/>
+</TextureAtlas>

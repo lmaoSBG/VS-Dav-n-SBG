@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Dave Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				53,
+				-116
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Dave Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-150
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dave Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-150
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dave Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-62,
+				-111
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dave Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ScratchDave",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dayv",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		102,
+		255
+	],
+	"camera_position": [
+		150,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

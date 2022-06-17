@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "DavAlt Idle"
+		},
+		{
+			"offsets": [
+				9,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "DavAlt Left"
+		},
+		{
+			"offsets": [
+				1,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "DavAlt Right"
+		},
+		{
+			"offsets": [
+				4,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "DavAlt Down"
+		},
+		{
+			"offsets": [
+				20,
+				9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "DavAlt Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MandelaDav",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "mandeladav",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		240,
+		50
+	],
+	"sing_duration": 6.09999999999999,
+	"scale": 0.7
+}

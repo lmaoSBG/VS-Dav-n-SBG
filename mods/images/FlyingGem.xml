@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FlyingGem.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FlyingGem instance 10000" x="1" y="1" width="353" height="650"/>
+	<SubTexture name="FlyingGem instance 10001" x="1" y="652" width="353" height="650"/>
+	<SubTexture name="FlyingGem instance 10002" x="1" y="1303" width="353" height="650"/>
+	<SubTexture name="FlyingGem instance 10003" x="355" y="1" width="353" height="650"/>
+	<SubTexture name="FlyingGem instance 10004" x="355" y="652" width="353" height="650"/>
+	<SubTexture name="FlyingGem instance 10005" x="355" y="1303" width="353" height="650"/>
+	<SubTexture name="FlyingGem instance 10006" x="709" y="1" width="353" height="650"/>
+	<SubTexture name="FlyingGem instance 10007" x="1063" y="1" width="353" height="650"/>
+	<SubTexture name="FlyingGem instance 10008" x="1417" y="1" width="353" height="650"/>
+	<SubTexture name="FlyingGem instance 10009" x="709" y="652" width="353" height="650"/>
+	<SubTexture name="FlyingGem instance 10010" x="709" y="1303" width="353" height="650"/>
+	<SubTexture name="FlyingGem instance 10011" x="1063" y="652" width="353" height="650"/>
+	<SubTexture name="FlyingGem instance 10012" x="1063" y="1303" width="353" height="650"/>
+	<SubTexture name="FlyingGem instance 10013" x="1417" y="652" width="353" height="650"/>
+</TextureAtlas>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Rocket.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Rocket instance 10000" x="1" y="1" width="637" height="544"/>
+	<SubTexture name="Rocket instance 10001" x="1" y="546" width="637" height="544"/>
+	<SubTexture name="Rocket instance 10002" x="639" y="1" width="637" height="544"/>
+	<SubTexture name="Rocket instance 10003" x="639" y="546" width="637" height="544"/>
+	<SubTexture name="Rocket instance 10004" x="1277" y="1" width="637" height="544"/>
+</TextureAtlas>

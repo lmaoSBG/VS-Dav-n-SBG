@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gamemad_assets.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GamePissed ALT Right0000" x="1" y="1" width="984" height="639"/>
+	<SubTexture name="GamePissed ALT Right0001" x="1" y="641" width="984" height="639"/>
+	<SubTexture name="GamePissed ALT Right0002" x="1" y="1281" width="984" height="639"/>
+	<SubTexture name="GamePissed ALT Right0003" x="1" y="1921" width="984" height="639"/>
+	<SubTexture name="GamePissed Down0000" x="1555" y="1259" width="441" height="626"/>
+	<SubTexture name="GamePissed Down0001" x="1559" y="1886" width="441" height="626"/>
+	<SubTexture name="GamePissed Down0002" x="1997" y="1259" width="441" height="626"/>
+	<SubTexture name="GamePissed Down0003" x="1997" y="1259" width="441" height="626"/>
+	<SubTexture name="GamePissed Down0004" x="1559" y="1886" width="441" height="626"/>
+	<SubTexture name="GamePissed Idle0000" x="2001" y="1886" width="428" height="618"/>
+	<SubTexture name="GamePissed Idle0001" x="2430" y="1886" width="428" height="618"/>
+	<SubTexture name="GamePissed Idle0002" x="2430" y="1886" width="428" height="618"/>
+	<SubTexture name="GamePissed Idle0003" x="2859" y="1" width="428" height="618"/>
+	<SubTexture name="GamePissed Idle0004" x="2859" y="1" width="428" height="618"/>
+	<SubTexture name="GamePissed Idle0005" x="2128" y="620" width="428" height="618"/>
+	<SubTexture name="GamePissed Idle0006" x="2128" y="620" width="428" height="618"/>
+	<SubTexture name="GamePissed Idle0007" x="2128" y="1" width="428" height="618"/>
+	<SubTexture name="GamePissed Idle0008" x="2128" y="1" width="428" height="618"/>
+	<SubTexture name="GamePissed Idle0009" x="2439" y="1239" width="428" height="618"/>
+	<SubTexture name="GamePissed Idle0010" x="2557" y="620" width="428" height="618"/>
+	<SubTexture name="GamePissed Idle0011" x="2859" y="1858" width="428" height="618"/>
+	<SubTexture name="GamePissed Left0000" x="3288" y="1" width="366" height="639"/>
+	<SubTexture name="GamePissed Left0001" x="3288" y="641" width="366" height="639"/>
+	<SubTexture name="GamePissed Left0002" x="3288" y="1281" width="366" height="639"/>
+	<SubTexture name="GamePissed Left0003" x="3288" y="1281" width="366" height="639"/>
+	<SubTexture name="GamePissed Left0004" x="3288" y="1281" width="366" height="639"/>
+	<SubTexture name="GamePissed Right0000" x="986" y="1921" width="572" height="628"/>
+	<SubTexture name="GamePissed Right0001" x="1555" y="1" width="572" height="628"/>
+	<SubTexture name="GamePissed Right0002" x="1555" y="630" width="572" height="628"/>
+	<SubTexture name="GamePissed Right0003" x="1555" y="630" width="572" height="628"/>
+	<SubTexture name="GamePissed Right0004" x="1555" y="1" width="572" height="628"/>
+	<SubTexture name="GamePissed Up0000" x="986" y="1" width="568" height="639"/>
+	<SubTexture name="GamePissed Up0001" x="986" y="641" width="568" height="639"/>
+	<SubTexture name="GamePissed Up0002" x="986" y="1281" width="568" height="639"/>
+	<SubTexture name="GamePissed Up0003" x="986" y="1281" width="568" height="639"/>
+	<SubTexture name="GamePissed Up0004" x="986" y="641" width="568" height="639"/>
+</TextureAtlas>

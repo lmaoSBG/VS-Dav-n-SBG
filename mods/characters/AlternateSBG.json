@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "AltSBG Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				149,
+				-15
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "AltSBG Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "AltSBG Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				53,
+				-24
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "AltSBG Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				53,
+				-10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "AltSBG Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AlternateSBG",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "alternate",
+	"flip_x": false,
+	"healthbar_colors": [
+		179,
+		179,
+		179
+	],
+	"camera_position": [
+		240,
+		50
+	],
+	"sing_duration": 6.09999999999999,
+	"scale": 0.7
+}

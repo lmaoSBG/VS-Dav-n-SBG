@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				-50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SBG Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				-60
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SBG Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-111,
+				-52
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SBG Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-79,
+				-72
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SBG Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-58,
+				-48
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SBG Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				-46
+			],
+			"anim": "Sword",
+			"fps": 24,
+			"name": "SBG ALT Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DSBG",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "2v1",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

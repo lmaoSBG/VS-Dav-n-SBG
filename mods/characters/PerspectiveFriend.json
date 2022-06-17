@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				-5
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "B0 Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "B0 Left5",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-12
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "B0 Down6",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				-5
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "B0 Up3",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				-8
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "B0 Right4",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-11
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "B0 2Dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-97,
+				13
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "B0 1Hurt",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PerspectiveBF",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

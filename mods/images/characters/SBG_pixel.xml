@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SBG_pixel.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SBG Pixel Down0000" x="58" y="189" width="56" height="93"/>
+	<SubTexture name="SBG Pixel Down0001" x="58" y="189" width="56" height="93"/>
+	<SubTexture name="SBG Pixel Down0002" x="115" y="189" width="56" height="93"/>
+	<SubTexture name="SBG Pixel Down0003" x="115" y="189" width="56" height="93"/>
+	<SubTexture name="SBG Pixel Down0004" x="172" y="189" width="56" height="93"/>
+	<SubTexture name="SBG Pixel Down0005" x="172" y="189" width="56" height="93"/>
+	<SubTexture name="SBG Pixel Idle0000" x="1" y="1" width="56" height="93"/>
+	<SubTexture name="SBG Pixel Idle0001" x="1" y="1" width="56" height="93"/>
+	<SubTexture name="SBG Pixel Idle0002" x="58" y="1" width="56" height="93"/>
+	<SubTexture name="SBG Pixel Idle0003" x="58" y="1" width="56" height="93"/>
+	<SubTexture name="SBG Pixel Idle0004" x="115" y="1" width="56" height="93"/>
+	<SubTexture name="SBG Pixel Idle0005" x="115" y="1" width="56" height="93"/>
+	<SubTexture name="SBG Pixel Idle0006" x="172" y="1" width="56" height="93"/>
+	<SubTexture name="SBG Pixel Idle0007" x="172" y="1" width="56" height="93"/>
+	<SubTexture name="SBG Pixel Idle0008" x="1" y="95" width="56" height="93"/>
+	<SubTexture name="SBG Pixel Idle0009" x="1" y="95" width="56" height="93"/>
+	<SubTexture name="SBG Pixel Idle0010" x="1" y="95" width="56" height="93"/>
+	<SubTexture name="SBG Pixel Idle0011" x="1" y="95" width="56" height="93"/>
+	<SubTexture name="SBG Pixel Idle0012" x="1" y="95" width="56" height="93"/>
+	<SubTexture name="SBG Pixel Idle0013" x="1" y="95" width="56" height="93"/>
+	<SubTexture name="SBG Pixel Left0000" x="1" y="189" width="56" height="93"/>
+	<SubTexture name="SBG Pixel Left0001" x="1" y="189" width="56" height="93"/>
+	<SubTexture name="SBG Pixel Left0002" x="1" y="283" width="56" height="93"/>
+	<SubTexture name="SBG Pixel Left0003" x="1" y="283" width="56" height="93"/>
+	<SubTexture name="SBG Pixel Left0004" x="1" y="377" width="56" height="93"/>
+	<SubTexture name="SBG Pixel Left0005" x="1" y="377" width="56" height="93"/>
+	<SubTexture name="SBG Pixel Right0000" x="58" y="283" width="56" height="93"/>
+	<SubTexture name="SBG Pixel Right0001" x="58" y="377" width="56" height="93"/>
+	<SubTexture name="SBG Pixel Right0002" x="115" y="283" width="56" height="93"/>
+	<SubTexture name="SBG Pixel Up0000" x="58" y="95" width="56" height="93"/>
+	<SubTexture name="SBG Pixel Up0001" x="58" y="95" width="56" height="93"/>
+	<SubTexture name="SBG Pixel Up0002" x="115" y="95" width="56" height="93"/>
+	<SubTexture name="SBG Pixel Up0003" x="115" y="95" width="56" height="93"/>
+	<SubTexture name="SBG Pixel Up0004" x="172" y="95" width="56" height="93"/>
+	<SubTexture name="SBG Pixel Up0005" x="172" y="95" width="56" height="93"/>
+</TextureAtlas>

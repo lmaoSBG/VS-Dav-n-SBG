@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Drip.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Drip0000" x="1" y="1" width="423" height="156"/>
+	<SubTexture name="Drip0001" x="425" y="1" width="423" height="156"/>
+	<SubTexture name="Drip0002" x="1" y="158" width="423" height="156"/>
+	<SubTexture name="Drip0003" x="425" y="158" width="423" height="156"/>
+	<SubTexture name="Drip0004" x="425" y="158" width="423" height="156"/>
+	<SubTexture name="Drip0005" x="425" y="158" width="423" height="156"/>
+	<SubTexture name="Drip0006" x="1" y="315" width="423" height="156"/>
+	<SubTexture name="Drip0007" x="1" y="472" width="423" height="156"/>
+	<SubTexture name="Drip0008" x="425" y="315" width="423" height="156"/>
+	<SubTexture name="Drip0009" x="425" y="472" width="423" height="156"/>
+	<SubTexture name="Drip0010" x="425" y="158" width="423" height="156"/>
+	<SubTexture name="Drip0011" x="425" y="158" width="423" height="156"/>
+</TextureAtlas>

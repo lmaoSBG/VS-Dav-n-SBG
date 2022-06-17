@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				350
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Mech Idle"
+		},
+		{
+			"offsets": [
+				43,
+				333
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Mech Left"
+		},
+		{
+			"offsets": [
+				-18,
+				334
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Mech Right"
+		},
+		{
+			"offsets": [
+				64,
+				211
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Mech Down"
+		},
+		{
+			"offsets": [
+				196,
+				312
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Mech Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				336,
+				459
+			],
+			"anim": "Mech Explode",
+			"fps": 24,
+			"name": "Mech Explode",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mech",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "mech",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-160,
+		-230
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

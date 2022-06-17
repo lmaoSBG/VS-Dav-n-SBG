@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PerspectiveBF.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="B0 1Hurt0000" x="1777" y="1" width="270" height="366"/>
+	<SubTexture name="B0 1Hurt0001" x="291" y="352" width="270" height="366"/>
+	<SubTexture name="B0 1Hurt0002" x="562" y="355" width="270" height="366"/>
+	<SubTexture name="B0 1Hurt0003" x="562" y="355" width="270" height="366"/>
+	<SubTexture name="B0 2Dodge0000" x="833" y="709" width="273" height="346"/>
+	<SubTexture name="B0 2Dodge0001" x="1107" y="709" width="273" height="346"/>
+	<SubTexture name="B0 2Dodge0002" x="1668" y="713" width="273" height="346"/>
+	<SubTexture name="B0 2Dodge0003" x="1668" y="713" width="273" height="346"/>
+	<SubTexture name="B0 Down60000" x="1393" y="700" width="274" height="345"/>
+	<SubTexture name="B0 Down60001" x="1393" y="700" width="274" height="345"/>
+	<SubTexture name="B0 Down60002" x="1" y="706" width="274" height="345"/>
+	<SubTexture name="B0 Down60003" x="1" y="706" width="274" height="345"/>
+	<SubTexture name="B0 Idle0000" x="617" y="1" width="289" height="353"/>
+	<SubTexture name="B0 Idle0001" x="617" y="1" width="289" height="353"/>
+	<SubTexture name="B0 Idle0002" x="907" y="1" width="289" height="353"/>
+	<SubTexture name="B0 Idle0003" x="907" y="1" width="289" height="353"/>
+	<SubTexture name="B0 Idle0004" x="1197" y="1" width="289" height="353"/>
+	<SubTexture name="B0 Idle0005" x="1197" y="1" width="289" height="353"/>
+	<SubTexture name="B0 Idle0006" x="1487" y="1" width="289" height="353"/>
+	<SubTexture name="B0 Idle0007" x="1487" y="1" width="289" height="353"/>
+	<SubTexture name="B0 Idle0008" x="1" y="352" width="289" height="353"/>
+	<SubTexture name="B0 Idle0009" x="1" y="352" width="289" height="353"/>
+	<SubTexture name="B0 Idle0010" x="1" y="352" width="289" height="353"/>
+	<SubTexture name="B0 Idle0011" x="1" y="352" width="289" height="353"/>
+	<SubTexture name="B0 Idle0012" x="1" y="352" width="289" height="353"/>
+	<SubTexture name="B0 Idle0013" x="1" y="352" width="289" height="353"/>
+	<SubTexture name="B0 Left50000" x="1393" y="355" width="282" height="344"/>
+	<SubTexture name="B0 Left50001" x="1393" y="355" width="282" height="344"/>
+	<SubTexture name="B0 Left50002" x="1676" y="368" width="282" height="344"/>
+	<SubTexture name="B0 Left50003" x="1676" y="368" width="282" height="344"/>
+	<SubTexture name="B0 Right40000" x="1" y="1" width="307" height="350"/>
+	<SubTexture name="B0 Right40001" x="1" y="1" width="307" height="350"/>
+	<SubTexture name="B0 Right40002" x="309" y="1" width="307" height="350"/>
+	<SubTexture name="B0 Right40003" x="309" y="1" width="307" height="350"/>
+	<SubTexture name="B0 Up30000" x="833" y="355" width="279" height="353"/>
+	<SubTexture name="B0 Up30001" x="833" y="355" width="279" height="353"/>
+	<SubTexture name="B0 Up30002" x="1113" y="355" width="279" height="353"/>
+	<SubTexture name="B0 Up30003" x="1113" y="355" width="279" height="353"/>
+</TextureAtlas>

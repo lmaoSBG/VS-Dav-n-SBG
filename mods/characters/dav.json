@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				-50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GamePissed Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-27
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GamePissed Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-35
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GamePissed Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-79,
+				-44
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GamePissed Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				78,
+				-28
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GamePissed Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				108,
+				-26
+			],
+			"anim": "Sword",
+			"fps": 24,
+			"name": "GamePissed ALT Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gamemad_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dav",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

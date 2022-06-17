@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="revealC.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="A00000000" x="1" y="926" width="531" height="718"/>
+	<SubTexture name="B00000000" x="979" y="1" width="578" height="733"/>
+	<SubTexture name="C00000000" x="979" y="736" width="523" height="800"/>
+	<SubTexture name="D00000000" x="1" y="1" width="509" height="869"/>
+	<SubTexture name="E00000000" x="512" y="1" width="465" height="923"/>
+</TextureAtlas>

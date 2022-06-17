@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SBGMenuIdle.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SBGMenuIdle instance 10000" x="1" y="1" width="300" height="498"/>
+	<SubTexture name="SBGMenuIdle instance 10001" x="1" y="1" width="300" height="498"/>
+	<SubTexture name="SBGMenuIdle instance 10002" x="1" y="500" width="300" height="498"/>
+	<SubTexture name="SBGMenuIdle instance 10003" x="1" y="500" width="300" height="498"/>
+	<SubTexture name="SBGMenuIdle instance 10004" x="302" y="1" width="300" height="498"/>
+	<SubTexture name="SBGMenuIdle instance 10005" x="302" y="1" width="300" height="498"/>
+	<SubTexture name="SBGMenuIdle instance 10006" x="302" y="500" width="300" height="498"/>
+	<SubTexture name="SBGMenuIdle instance 10007" x="302" y="500" width="300" height="498"/>
+	<SubTexture name="SBGMenuIdle instance 10008" x="603" y="1" width="300" height="498"/>
+	<SubTexture name="SBGMenuIdle instance 10009" x="603" y="1" width="300" height="498"/>
+	<SubTexture name="SBGMenuIdle instance 10010" x="603" y="1" width="300" height="498"/>
+	<SubTexture name="SBGMenuIdle instance 10011" x="603" y="1" width="300" height="498"/>
+	<SubTexture name="SBGMenuIdle instance 10012" x="603" y="1" width="300" height="498"/>
+	<SubTexture name="SBGMenuIdle instance 10013" x="603" y="1" width="300" height="498"/>
+</TextureAtlas>

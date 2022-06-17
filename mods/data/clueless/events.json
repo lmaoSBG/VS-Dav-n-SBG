@@ -1,0 +1,1499 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "Scratch",
+		"player1": "ScratchFriend",
+		"player2": "Dave1",
+		"player3": null,
+		"events": [
+			[
+				25200,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.03",
+						"0, 0"
+					]
+				]
+			],
+			[
+				25204.1666666667,
+				[
+					[
+						"Image Flash",
+						"greenflash",
+						"0.03"
+					]
+				]
+			],
+			[
+				59600,
+				[
+					[
+						"Screen Shake",
+						"1.1, 0.03",
+						""
+					]
+				]
+			],
+			[
+				59606.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				59618.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				59631.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				59643.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				59656.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				59668.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				59681.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				59693.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				59706.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				59718.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				59731.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				59743.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				59756.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				59768.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				59768.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				59781.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				59793.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				59806.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				59818.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				59831.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				59843.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				59856.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				59868.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				59881.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				59893.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				59906.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				59918.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				59931.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				59943.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				59956.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				59968.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				59981.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				59993.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60006.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60018.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60031.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60043.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60056.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60068.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60081.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60093.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60106.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60118.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60131.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60143.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60156.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60168.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60181.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60193.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60206.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60218.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60231.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60243.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60256.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60268.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60281.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60293.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60306.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60318.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60331.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60343.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60356.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60368.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60381.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60393.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60406.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60418.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60431.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60443.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60456.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60468.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60481.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60493.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60506.25,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				60518.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Image Flash",
+						"whiteflash",
+						"8.2"
+					]
+				]
+			],
+			[
+				64003.125,
+				[
+					[
+						"Change Scroll Speed",
+						"1.5",
+						"0.1"
+					]
+				]
+			],
+			[
+				64006.25,
+				[
+					[
+						"Screen Shake",
+						"69.6, 0.02",
+						"69.6, 0.005"
+					]
+				]
+			],
+			[
+				67200,
+				[
+					[
+						"Change Character",
+						"2",
+						"mech"
+					]
+				]
+			],
+			[
+				67300,
+				[
+					[
+						"Change Character",
+						"0",
+						"PerspectiveFriend"
+					]
+				]
+			],
+			[
+				67400,
+				[
+					[
+						"Change Character",
+						"1",
+						"Dave2"
+					]
+				]
+			],
+			[
+				73296.875,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.03"
+					]
+				]
+			],
+			[
+				73300,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.03",
+						"0, 0"
+					]
+				]
+			],
+			[
+				73600,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				74800,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				76000,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				77200,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				78396.875,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				78400,
+				[
+					[
+						"RocketEvent",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				79600,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				80800,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				82000,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				83200,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				84400,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				85600,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				86200,
+				[
+					[
+						"RocketEvent",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				86800,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				88000,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				89200,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				90400,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				91000,
+				[
+					[
+						"RocketEvent",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				91600,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				92800,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				94000,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				95200,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				96400,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				97000,
+				[
+					[
+						"RocketEvent",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				97600,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				98800,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				100000,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				101200,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				102400,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				103600,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				104800,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				105400,
+				[
+					[
+						"RocketEvent",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				106000,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				107200,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				108400,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				109600,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				110200,
+				[
+					[
+						"RocketEvent",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				110800,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				112000,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				113200,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				114400,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				115600,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				116200,
+				[
+					[
+						"RocketEvent",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				116800,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				118000,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				119200,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				119800,
+				[
+					[
+						"RocketEvent",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				120400,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				121600,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				122800,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				124000,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				124600,
+				[
+					[
+						"RocketEvent",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				125200,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				126400,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				127600,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				128800,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				129400,
+				[
+					[
+						"RocketEvent",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				130000,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				131200,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				132400,
+				[
+					[
+						"Image Flash",
+						"redflash",
+						"0.6"
+					]
+				]
+			],
+			[
+				133600,
+				[
+					[
+						"Play Animation",
+						"Mech Explode",
+						"2"
+					]
+				]
+			],
+			[
+				133900,
+				[
+					[
+						"Image Flash",
+						"whiteflash",
+						"11"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-pixel",
+		"bpm": 150,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Clueless"
+	}
+}

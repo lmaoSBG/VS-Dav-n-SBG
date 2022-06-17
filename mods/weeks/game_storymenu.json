@@ -1,0 +1,48 @@
+{
+	"storyName": "Nice Battle Bus, Junior.",
+	"hideFreeplay": false,
+	"weekBackground": "game_menubackground",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Soup",
+			"game",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"Leaving",
+			"dav",
+			[
+				211,
+				211,
+				0
+			]
+		],
+		[
+			"Resurgence",
+			"cursed",
+			[
+				75,
+				75,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"GAMEmenuidle",
+		"bf",
+		"gf"
+	],
+	"weekName": "Dav Week"
+}

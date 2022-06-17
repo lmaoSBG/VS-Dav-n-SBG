@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Game_Assets.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Game Down0000" x="1" y="3208" width="510" height="572"/>
+	<SubTexture name="Game Down0001" x="513" y="3206" width="510" height="572"/>
+	<SubTexture name="Game Down0002" x="1025" y="3199" width="510" height="572"/>
+	<SubTexture name="Game Down0003" x="1025" y="3199" width="510" height="572"/>
+	<SubTexture name="Game Down0004" x="513" y="3206" width="510" height="572"/>
+	<SubTexture name="Game Idle0000" x="1064" y="644" width="473" height="633"/>
+	<SubTexture name="Game Idle0001" x="1064" y="644" width="473" height="633"/>
+	<SubTexture name="Game Idle0002" x="517" y="1936" width="473" height="633"/>
+	<SubTexture name="Game Idle0003" x="517" y="1936" width="473" height="633"/>
+	<SubTexture name="Game Idle0004" x="992" y="2564" width="473" height="633"/>
+	<SubTexture name="Game Idle0005" x="992" y="2564" width="473" height="633"/>
+	<SubTexture name="Game Idle0006" x="517" y="2571" width="473" height="633"/>
+	<SubTexture name="Game Idle0007" x="517" y="2571" width="473" height="633"/>
+	<SubTexture name="Game Idle0008" x="1" y="2573" width="473" height="633"/>
+	<SubTexture name="Game Idle0009" x="1" y="2573" width="473" height="633"/>
+	<SubTexture name="Game Idle0010" x="1" y="2573" width="473" height="633"/>
+	<SubTexture name="Game Idle0011" x="1" y="2573" width="473" height="633"/>
+	<SubTexture name="Game Idle0012" x="1" y="2573" width="473" height="633"/>
+	<SubTexture name="Game Idle0013" x="1" y="2573" width="473" height="633"/>
+	<SubTexture name="Game Left0000" x="1" y="1" width="547" height="641"/>
+	<SubTexture name="Game Left0001" x="550" y="1" width="547" height="641"/>
+	<SubTexture name="Game Left0002" x="1" y="644" width="547" height="641"/>
+	<SubTexture name="Game Left0003" x="1" y="644" width="547" height="641"/>
+	<SubTexture name="Game Left0004" x="550" y="1" width="547" height="641"/>
+	<SubTexture name="Game Right0000" x="1029" y="1290" width="514" height="635"/>
+	<SubTexture name="Game Right0001" x="1029" y="1927" width="514" height="635"/>
+	<SubTexture name="Game Right0002" x="1" y="1936" width="514" height="635"/>
+	<SubTexture name="Game Right0003" x="1" y="1936" width="514" height="635"/>
+	<SubTexture name="Game Right0004" x="1029" y="1927" width="514" height="635"/>
+	<SubTexture name="Game Up0000" x="550" y="644" width="512" height="644"/>
+	<SubTexture name="Game Up0001" x="1" y="1287" width="512" height="644"/>
+	<SubTexture name="Game Up0002" x="515" y="1290" width="512" height="644"/>
+	<SubTexture name="Game Up0003" x="515" y="1290" width="512" height="644"/>
+	<SubTexture name="Game Up0004" x="1" y="1287" width="512" height="644"/>
+</TextureAtlas>

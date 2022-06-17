@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Goo.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Goo0000" x="1" y="1" width="426" height="281"/>
+	<SubTexture name="Goo0001" x="428" y="1" width="426" height="281"/>
+	<SubTexture name="Goo0002" x="1" y="283" width="426" height="281"/>
+	<SubTexture name="Goo0003" x="428" y="283" width="426" height="281"/>
+	<SubTexture name="Goo0004" x="1" y="565" width="426" height="281"/>
+	<SubTexture name="Goo0005" x="1" y="847" width="426" height="281"/>
+	<SubTexture name="Goo0006" x="428" y="565" width="426" height="281"/>
+	<SubTexture name="Goo0007" x="428" y="847" width="426" height="281"/>
+</TextureAtlas>

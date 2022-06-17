@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="arrowglitch.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="arrowglitch0000" x="1" y="1" width="64" height="17"/>
+	<SubTexture name="arrowglitch0001" x="1" y="1" width="64" height="17"/>
+	<SubTexture name="arrowglitch0002" x="1" y="19" width="64" height="17"/>
+	<SubTexture name="arrowglitch0003" x="1" y="19" width="64" height="17"/>
+	<SubTexture name="arrowglitch0004" x="1" y="37" width="64" height="17"/>
+	<SubTexture name="arrowglitch0005" x="1" y="37" width="64" height="17"/>
+</TextureAtlas>

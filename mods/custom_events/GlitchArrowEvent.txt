@@ -1,0 +1,2 @@
+Value1 Time the arrows glitch for (seconds)
+Value2 NA

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-270,
+				-320
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SBG Glitch Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-270,
+				-320
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SBG Glitch Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-270,
+				-320
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SBG Glitch Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-152,
+				-320
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SBG Glitch Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-320,
+				-320
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SBG Glitch Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Glitch_SBG",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "SBG",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		10,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 6.54999999999999
+}

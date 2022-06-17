@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-140
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Idle",
+			"loop": false,
+			"name": "RoccoStand"
+		},
+		{
+			"offsets": [
+				0,
+				-140
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "RoccoSTOP",
+			"loop": false,
+			"name": "RoccoSTOP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Rocco",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

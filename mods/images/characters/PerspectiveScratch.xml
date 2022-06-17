@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PerspectiveScratch.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LookBack Idle instance 10000" x="1" y="1" width="336" height="525"/>
+	<SubTexture name="LookBack Idle instance 10001" x="1" y="1" width="336" height="525"/>
+	<SubTexture name="LookBack Idle instance 10002" x="1" y="527" width="336" height="525"/>
+	<SubTexture name="LookBack Idle instance 10003" x="1" y="527" width="336" height="525"/>
+	<SubTexture name="LookBack Idle instance 10004" x="1" y="1053" width="336" height="525"/>
+	<SubTexture name="LookBack Idle instance 10005" x="1" y="1053" width="336" height="525"/>
+	<SubTexture name="LookBack Idle instance 10006" x="338" y="1" width="336" height="525"/>
+	<SubTexture name="LookBack Idle instance 10007" x="338" y="1" width="336" height="525"/>
+	<SubTexture name="LookBack Idle instance 10008" x="338" y="527" width="336" height="525"/>
+	<SubTexture name="LookBack Idle instance 10009" x="338" y="527" width="336" height="525"/>
+	<SubTexture name="LookBack Idle instance 10010" x="338" y="527" width="336" height="525"/>
+	<SubTexture name="LookBack Idle instance 10011" x="338" y="527" width="336" height="525"/>
+	<SubTexture name="LookBack Idle instance 10012" x="338" y="527" width="336" height="525"/>
+	<SubTexture name="LookBack Idle instance 10013" x="338" y="527" width="336" height="525"/>
+</TextureAtlas>

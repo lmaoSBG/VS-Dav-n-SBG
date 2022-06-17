@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="3DSBG.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="3D SBG Down0000" x="707" y="469" width="250" height="458"/>
+	<SubTexture name="3D SBG Down0001" x="707" y="469" width="250" height="458"/>
+	<SubTexture name="3D SBG Down0002" x="958" y="469" width="250" height="458"/>
+	<SubTexture name="3D SBG Down0003" x="958" y="469" width="250" height="458"/>
+	<SubTexture name="3D SBG Idle0000" x="1" y="512" width="205" height="428"/>
+	<SubTexture name="3D SBG Idle0001" x="1" y="512" width="205" height="428"/>
+	<SubTexture name="3D SBG Idle0002" x="207" y="512" width="205" height="428"/>
+	<SubTexture name="3D SBG Idle0003" x="207" y="512" width="205" height="428"/>
+	<SubTexture name="3D SBG Idle0004" x="413" y="512" width="205" height="428"/>
+	<SubTexture name="3D SBG Idle0005" x="1209" y="500" width="205" height="428"/>
+	<SubTexture name="3D SBG Idle0006" x="1415" y="500" width="205" height="428"/>
+	<SubTexture name="3D SBG Idle0007" x="1621" y="500" width="205" height="428"/>
+	<SubTexture name="3D SBG Idle0008" x="1827" y="500" width="205" height="428"/>
+	<SubTexture name="3D SBG Idle0009" x="1827" y="500" width="205" height="428"/>
+	<SubTexture name="3D SBG Idle0010" x="1827" y="500" width="205" height="428"/>
+	<SubTexture name="3D SBG Idle0011" x="1827" y="500" width="205" height="428"/>
+	<SubTexture name="3D SBG Idle0012" x="1827" y="500" width="205" height="428"/>
+	<SubTexture name="3D SBG Idle0013" x="1827" y="500" width="205" height="428"/>
+	<SubTexture name="3D SBG Left0000" x="707" y="1" width="327" height="467"/>
+	<SubTexture name="3D SBG Left0001" x="707" y="1" width="327" height="467"/>
+	<SubTexture name="3D SBG Left0002" x="1035" y="1" width="327" height="467"/>
+	<SubTexture name="3D SBG Left0003" x="1035" y="1" width="327" height="467"/>
+	<SubTexture name="3D SBG Right0000" x="1" y="1" width="352" height="510"/>
+	<SubTexture name="3D SBG Right0001" x="1" y="1" width="352" height="510"/>
+	<SubTexture name="3D SBG Right0002" x="354" y="1" width="352" height="510"/>
+	<SubTexture name="3D SBG Right0003" x="354" y="1" width="352" height="510"/>
+	<SubTexture name="3D SBG Up0000" x="1363" y="1" width="273" height="498"/>
+	<SubTexture name="3D SBG Up0001" x="1363" y="1" width="273" height="498"/>
+	<SubTexture name="3D SBG Up0002" x="1637" y="1" width="273" height="498"/>
+	<SubTexture name="3D SBG Up0003" x="1637" y="1" width="273" height="498"/>
+</TextureAtlas>

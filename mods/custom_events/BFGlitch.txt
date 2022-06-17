@@ -1,0 +1,2 @@
+Value1 Time span you can get rid of glitch (seconds)
+Value2 ND

@@ -1,0 +1,2 @@
+Value1 Time you get to dodge rocket (seconds)
+Value2 ND

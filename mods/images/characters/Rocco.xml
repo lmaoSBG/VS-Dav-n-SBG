@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Rocco.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RoccoSTOP0000" x="1" y="1" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0001" x="435" y="1" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0002" x="1" y="536" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0003" x="1" y="536" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0004" x="1" y="536" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0005" x="1" y="536" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0006" x="1" y="536" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0007" x="1" y="536" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0008" x="1" y="536" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0009" x="1" y="536" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0010" x="1" y="536" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0011" x="1" y="536" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0012" x="1" y="536" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0013" x="1" y="536" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0014" x="1" y="536" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0015" x="1" y="536" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0016" x="1" y="536" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0017" x="1" y="536" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0018" x="1" y="536" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0019" x="435" y="536" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0020" x="1" y="1" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0021" x="1" y="1" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0022" x="1" y="1" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0023" x="1" y="1" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0024" x="1" y="1" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0025" x="1" y="1" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0026" x="1" y="1" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0027" x="1" y="1" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0028" x="1" y="1" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0029" x="1" y="1" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0030" x="1" y="1" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0031" x="1" y="1" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0032" x="1" y="1" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0033" x="1" y="1" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0034" x="1" y="1" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0035" x="1" y="1" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0036" x="1" y="1" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0037" x="1" y="1" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0038" x="1" y="1" width="433" height="534"/>
+	<SubTexture name="RoccoSTOP0039" x="1" y="1071" width="433" height="534"/>
+	<SubTexture name="RoccoStand0000" x="435" y="1071" width="299" height="534"/>
+</TextureAtlas>

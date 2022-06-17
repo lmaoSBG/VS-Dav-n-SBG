@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-150,
+				-220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "3D SBG Idle"
+		},
+		{
+			"offsets": [
+				-50,
+				-160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "3D SBG Left"
+		},
+		{
+			"offsets": [
+				-30,
+				-150
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "3D SBG Right"
+		},
+		{
+			"offsets": [
+				-129,
+				-183
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "3D SBG Down"
+		},
+		{
+			"offsets": [
+				-31,
+				-117
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "3D SBG Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/3DSBG",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sbg",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.6
+}

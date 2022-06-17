@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GOONOTE_assets.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blueee0000" x="1" y="1" width="157" height="154"/>
+	<SubTexture name="gpiece0000" x="52" y="311" width="50" height="44"/>
+	<SubTexture name="greennn0000" x="1" y="156" width="157" height="154"/>
+	<SubTexture name="purple0000" x="159" y="1" width="154" height="157"/>
+	<SubTexture name="ppiece0000" x="52" y="311" width="50" height="44"/>
+	<SubTexture name="reddd0000" x="159" y="159" width="154" height="157"/>
+</TextureAtlas>

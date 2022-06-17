@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BFGlitch.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BFGlitch0000" x="1" y="1" width="64" height="63"/>
+	<SubTexture name="BFGlitch0001" x="1" y="1" width="64" height="63"/>
+	<SubTexture name="BFGlitch0002" x="1" y="65" width="64" height="63"/>
+	<SubTexture name="BFGlitch0003" x="1" y="65" width="64" height="63"/>
+	<SubTexture name="BFGlitch0004" x="1" y="129" width="64" height="63"/>
+	<SubTexture name="BFGlitch0005" x="1" y="129" width="64" height="63"/>
+</TextureAtlas>

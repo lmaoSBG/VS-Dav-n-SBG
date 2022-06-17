@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cursed_Assets.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="David Cursed Down0000" x="971" y="2237" width="926" height="1119"/>
+	<SubTexture name="David Cursed Down0001" x="971" y="2237" width="926" height="1119"/>
+	<SubTexture name="David Cursed Down0002" x="971" y="2237" width="926" height="1119"/>
+	<SubTexture name="David Cursed Down0003" x="971" y="2237" width="926" height="1119"/>
+	<SubTexture name="David Cursed Idle0000" x="984" y="5" width="924" height="1104"/>
+	<SubTexture name="David Cursed Idle0001" x="984" y="5" width="924" height="1104"/>
+	<SubTexture name="David Cursed Idle0002" x="984" y="5" width="924" height="1104"/>
+	<SubTexture name="David Cursed Idle0003" x="984" y="5" width="924" height="1104"/>
+	<SubTexture name="David Cursed Idle0004" x="984" y="5" width="924" height="1104"/>
+	<SubTexture name="David Cursed Idle0005" x="984" y="5" width="924" height="1104"/>
+	<SubTexture name="David Cursed Idle0006" x="984" y="5" width="924" height="1104"/>
+	<SubTexture name="David Cursed Idle0007" x="984" y="5" width="924" height="1104"/>
+	<SubTexture name="David Cursed Idle0008" x="984" y="5" width="924" height="1104"/>
+	<SubTexture name="David Cursed Idle0009" x="984" y="5" width="924" height="1104"/>
+	<SubTexture name="David Cursed Idle0010" x="984" y="5" width="924" height="1104"/>
+	<SubTexture name="David Cursed Idle0011" x="984" y="5" width="924" height="1104"/>
+	<SubTexture name="David Cursed Idle0012" x="984" y="5" width="924" height="1104"/>
+	<SubTexture name="David Cursed Idle0013" x="984" y="5" width="924" height="1104"/>
+	<SubTexture name="David Cursed Left0000" x="5" y="5" width="973" height="1111"/>
+	<SubTexture name="David Cursed Left0001" x="5" y="5" width="973" height="1111"/>
+	<SubTexture name="David Cursed Left0002" x="5" y="5" width="973" height="1111"/>
+	<SubTexture name="David Cursed Left0003" x="5" y="5" width="973" height="1111"/>
+	<SubTexture name="David Cursed Right0000" x="5" y="2237" width="960" height="1102"/>
+	<SubTexture name="David Cursed Right0001" x="5" y="2237" width="960" height="1102"/>
+	<SubTexture name="David Cursed Right0002" x="5" y="2237" width="960" height="1102"/>
+	<SubTexture name="David Cursed Right0003" x="5" y="2237" width="960" height="1102"/>
+	<SubTexture name="David Cursed Up0000" x="5" y="1122" width="973" height="1109"/>
+	<SubTexture name="David Cursed Up0001" x="5" y="1122" width="973" height="1109"/>
+	<SubTexture name="David Cursed Up0002" x="5" y="1122" width="973" height="1109"/>
+	<SubTexture name="David Cursed Up0003" x="5" y="1122" width="973" height="1109"/>
+</TextureAtlas>

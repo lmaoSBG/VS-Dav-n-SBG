@@ -1,0 +1,2 @@
+Value1 Time the fall animation lasts for (don't put it to anything else but 0.3)
+Value2 Time the goo drip loop lasts for (goo drip time *adds 0.3 to total*)

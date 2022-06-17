@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MashSpace.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MashSpace0000" x="1" y="1" width="920" height="327"/>
+	<SubTexture name="MashSpace0001" x="1" y="329" width="920" height="327"/>
+	<SubTexture name="MashSpace0002" x="1" y="657" width="920" height="327"/>
+	<SubTexture name="MashSpace0003" x="1" y="657" width="920" height="327"/>
+	<SubTexture name="MashSpace0004" x="1" y="985" width="920" height="327"/>
+</TextureAtlas>
