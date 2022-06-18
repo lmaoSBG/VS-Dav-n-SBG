@@ -26,7 +26,7 @@ _____________________________________
 
 VS Dav n' SBG Information
 
-This is [PURELY the source code]. The mod will not work if you don't have the "mods" folder from the mod download at [Gamebanana](https://gamebanana.com/mods/335590)
+This is **PURELY** the source code. The mod **will not work** if you don't have the "mods" folder from the mod download at [Gamebanana](https://gamebanana.com/mods/335590)
 
 The source code is out in compliance with ninjamuffins terms, shown here:
 
